@@ -3,11 +3,11 @@
 ## Part 1: Upload Your Files
 1. Create a folder named `code` on your laptop.
 2. Put all of your code files into the `code` folder that you created. 
-3. Organize your Labs and Projects into their own folders - EXCEPT your files for your midterm. It should look like this when you're done: 
+3. Organize your Labs and Projects into their own folders - EXCEPT your files for your midterm. It should look like this when you're done:
 ![Step 3](https://github.com/ms-marinelli/MidtermProject/blob/master/HowTo/1Step3.png)
-4. Click on repository link to create your assignment (https://classroom.github.com/a/mud3a3mx)
+4. Click on repository link to create your assignment (https://classroom.github.com/a/mud3a3mx).
 5. Click on Upload Files.
-6. Drag and drop your files to upload them.
+6. Drag and drop all of the folders and files in your code folder to upload. 
 ![Step 6](https://github.com/ms-marinelli/MidtermProject/blob/master/HowTo/1Step4.gif)
 
 ## Part 2: Enable GitHub Pages
